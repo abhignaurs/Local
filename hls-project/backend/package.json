@@ -1,0 +1,21 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@eyevinn/hls-monitor": "github:Eyevinn/hls-monitor",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "hls-parser": "^0.15.0",
+    "mongoose": "^9.0.0",
+    "node-cron": "^4.2.1"
+  }
+}
